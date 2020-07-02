@@ -225,4 +225,7 @@ i{
 	transition: 1s;
 }
 
+.bar {
+	display: none;
+}
 /* Finish main */
