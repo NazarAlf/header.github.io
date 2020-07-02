@@ -199,6 +199,7 @@ header {
 	padding-top: 15px;	
 }
 
+
 .icon{
 	padding-top: 30px;
 	display: inline-block;
@@ -225,4 +226,6 @@ i{
 	transition: 1s;
 }
 
+.bar {
+	display: block;
 /* Finish main */
