@@ -73,6 +73,14 @@
     .bar {
         display: contents;
     }
+	
+    .download a {
+	padding: 4px 4px;
+    }
+	
+	.download {
+		font-size: 12px;
+	}
     /* sampai sini */
     
 }
